@@ -1,0 +1,5 @@
+starter\CucumberTestSuite.class
+starter\stepdefinitions\Users\LoginSteps.class
+starter\stepdefinitions\Users\RegisterSteps.class
+starter\stepdefinitions\Users\LogoutSteps.class
+starter\stepdefinitions\Users\AddToCart.class

@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Cart","Didn't add anything to cart","SUCCESS","2022-11-08T08:33:55.9961094+07:00[Asia/Jakarta]","0.0","1.07"
+"Cart","Add order to cart","SUCCESS","2022-11-08T08:33:57.424364+07:00[Asia/Jakarta]","0.0","0.14"
